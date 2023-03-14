@@ -51,7 +51,7 @@
     "@semantic-release/npm": "9.0.2",
     "cosmiconfig": "^7.0.1",
     "remeda": "^0.0.32",
-    "semantic-release": "20.1.0",
+    "semantic-release": "github:jacobtipp/semantic-release",
     "semantic-release-plugin-decorators": "3.0.1"
   },
   "devDependencies": {
